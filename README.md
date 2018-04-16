@@ -20,3 +20,6 @@ we use Faceted search It is a technique for accessing information organized acco
 
 the user will search for the movies from various categories that have the properties (attributes) the user is looking for. In the second step, movie ids from the results of the previous step in addition to user’s tags can be used to search for users/viewers. The result of this search will show users that assigned selected tags to the selected movies.
 
+## ScreenShots
+
+<img width="760" alt="screen shot 2018-04-16 at 4 02 21 pm" src="https://user-images.githubusercontent.com/10774588/38839470-a04d52a0-418f-11e8-9a7f-07f354079672.png">
